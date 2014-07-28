@@ -3,6 +3,10 @@
 *.pyc
 *.py~
 
+# lib/bin Files
+###############
+*lib/
+*bin/
 
 # Compiled source #
 ###################
